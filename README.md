@@ -17,11 +17,11 @@ Este projeto é compatível com a versão estável mais recente do Android Studi
 
 ### Tela principal
 
-![Tela principal](./images/tela_1)
+![Tela principal](./images/tela_1.png)
 
 ### Exemplo de Conversão
 
-![Exemplo de Conversão](./images/tela_2)
+![Exemplo de Conversão](./images/tela_2.png)
 
 ---
 
