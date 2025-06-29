@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conversor de Moedas</string>
+    <string name="txt_title">Conversor de Moeda</string>
+    <string name="txt_caption"><![CDATA[Conversão rápida e atualizada de BR -> USD]]></string>
+    <string name="label_value">Valor</string>
+    <string name="currency_brl">BRL</string>
+    <string name="label_converted_amount">Valor Convertido</string>
+    <string name="currency_usd">USD</string>
+    <string name="txt_indicator_exchange_rate">Taxa de Câmbio Indicativa</string>
+    <string name="txt_currency_conversion">1 BRL = 0.1825 USD</string>
+</resources>
