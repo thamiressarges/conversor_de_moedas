@@ -18,13 +18,13 @@ Este projeto é compatível com a versão estável mais recente do Android Studi
 ### Tela principal
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1cmweGdnYytRwZo7rlhWdN2SkiHSemZFM" alt="Tela principal do app" width="300" />
+  <img src="https://drive.google.com/file/d/1cmweGdnYytRwZo7rlhWdN2SkiHSemZFM/view?usp=sharing" alt="Tela principal do app" width="300" />
 </p>
 
 ### Exemplo de Conversão
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1R829IaADJPjdVOFInHwg4SqM4OpTVU43" alt="Exemplo de conversão BRL para USD" width="300" />
+  <img src="https://drive.google.com/file/d/1R829IaADJPjdVOFInHwg4SqM4OpTVU43/view?usp=sharing" alt="Exemplo de conversão BRL para USD" width="300" />
 </p>
 
 ---
