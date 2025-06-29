@@ -15,7 +15,7 @@ Este projeto é compatível com a versão estável mais recente do Android Studi
 
 ## 📸 Capturas de Tela
 
-<img src="./images/banner.png" alt="Tela Principal" width="200" style="display: inline; margin-right: 10px;" />
+<img src="./images/banner.png" alt="Tela Principal" width="800" style="display: inline; margin-right: 10px;" />
 
 ---
 
