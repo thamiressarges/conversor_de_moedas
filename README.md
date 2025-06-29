@@ -15,13 +15,8 @@ Este projeto é compatível com a versão estável mais recente do Android Studi
 
 ## 📸 Capturas de Tela
 
-### Tela principal
-
-![Tela principal](./images/tela_1.png)
-
-### Exemplo de Conversão
-
-![Exemplo de Conversão](./images/tela_2.png)
+<img src="./images/tela_1.png" alt="Tela Principal" width="200" style="display: inline; margin-right: 10px;" />
+<img src="./images/tela2.png" alt="Exemplo de conversão" width="200" style="display: inline;" />
 
 ---
 
