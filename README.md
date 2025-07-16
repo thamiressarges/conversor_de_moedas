@@ -1,5 +1,7 @@
 # Conversor de Moedas (BRL ↔ USD) 💱
 
+![Tela principal](./images/conversor_de_moedas_banner.png)
+
 ✅ **O que é**: Um aplicativo Android simples que converte valores de Real (BRL) para Dólar (USD) em tempo real, utilizando Kotlin e View Binding. Ideal para quem quer um projeto básico para aprendizado ou uso rápido.
 
 Este projeto é compatível com a versão estável mais recente do Android Studio.
@@ -15,7 +17,7 @@ Este projeto é compatível com a versão estável mais recente do Android Studi
 
 ## 📸 Capturas de Tela
 
-<img src="./images/banner.png" alt="Tela Principal" width="800" style="display: inline; margin-right: 10px;" />
+![Tela principal](./images/conversor_de_moedas_visualize_a_experiencia.png)
 
 ---
 
